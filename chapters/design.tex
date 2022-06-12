@@ -1,0 +1,210 @@
+\chapter{Design}
+
+    \paragraph*{}
+        A significant amount of time was spent on the design of the system.
+        A careful consideration was given to working of the frontend and the backend. The system was designed to be as modular as possible.
+        The system was designed to be able to be used in multiple ways.
+        Special attention to the design of the frontend was given including contrast ratios, colors and rhythm was given. User experience was also given a high priority. 
+
+
+
+    \section{Design Patterns}
+        \begin{itemize}
+            \item{State}
+
+            The useState hook in react exposes a way to change the state of the component, this allows us to re-render the ui whenever change the state of the component. The functional component might behave differently depending on the state of the component. This is how a the state pattern is used here.
+            
+            \begin{figure}[h]
+                \centering
+                \includegraphics[width=0.8\textwidth]{images/useState.png}
+                \caption{State Pattern}
+                \label{fig:state}
+            \end{figure}
+
+            \pagebreak
+
+            \item{Memento}
+            
+            The useMemo hook allows us to memoize the output of the component. This is how the memento pattern is used here. Here we are memoizing the slotList. This is done to avoid re-calculating and re-sorting the slotList when the component re-renders.
+
+            \begin{figure}[h]
+                \centering
+                \includegraphics[width=0.8\textwidth]{images/useMemo.png}
+                \caption{Memento Pattern}
+                \label{fig:memento}
+            \end{figure}
+            
+        \end{itemize}
+
+        \pagebreak
+
+        \section{Frontend}
+           \subsection{Wireframe}
+                \paragraph*{}
+                    Before the development of the UI the design of the wireframe was considered. A wireframe of the UI was created that gave the general understanding of how the UI will be broken into components.
+
+                    \begin{figure}[h]
+                        \centering
+                        \includegraphics[width=0.6\textwidth]{images/homepageWireframe.png}
+                        \caption{Homepage Wireframe}
+                        \label{fig:homepageWireframe}
+                    \end{figure}
+ 
+                    \begin{figure}[h]
+                        \centering
+                        \includegraphics[width=0.6\textwidth]{images/parkerWireframe.png}
+                        \caption{Parker Wireframe}
+                        \label{fig:parkerWireframe}
+                    \end{figure}
+
+                    \begin{figure}[h]
+                        \centering
+                        \includegraphics[width=0.6\textwidth]{images/sellerWireframe.png}
+                        \caption{Seller Wireframe}
+                        \label{fig:sellerWireframe}
+                    \end{figure}
+
+            \pagebreak
+                \subsection{UI}
+                \paragraph*{}
+                    At the start of UI design the Font, Colors and Design schemes were solidified to ease the process and keep the consistency throughout the application. The aim was to make the UI look and feel like one cohesive application.
+
+                    \begin{figure}[h]
+                        \centering
+                        \includegraphics[width=0.8\textwidth]{images/colorScheme.png}
+                        \caption{Color, Font, Design Schemes}
+                        \label{fig:colorScheme}
+                    \end{figure}
+    
+                    \begin{figure}[h]
+                        \centering
+                        \includegraphics[width=0.8\textwidth]{images/ui1.png}
+                        \caption{UI (1)}
+                        \label{fig:ui1}
+                    \end{figure}
+
+                    \begin{figure}[h]
+                        \centering
+                        \includegraphics[width=0.8\textwidth]{images/ui2.png}
+                        \caption{UI (2)}
+                        \label{fig:ui2}
+                    \end{figure}
+
+                    
+                    \begin{figure}[h]
+                        \centering
+                        \includegraphics[width=0.8\textwidth]{images/ui3.png}
+                        \caption{UI (3)}
+                        \label{fig:ui3}
+                    \end{figure}
+
+                \pagebreak
+                \clearpage
+                    
+                \section{Backend}
+                \subsection{Models}
+                \paragraph*{}
+                    It is important to highlight the models that were designed and used. \\Each modelhad been given a careful consideration to make sure that the model is as modular as possible. The models were designed to be able to be used in multiple ways.The models were also designed in such a way that it will reduce redundancy wherever possible.\\
+
+                    \begin{figure}[h]
+                        \centering
+                        \includegraphics[width=0.6\textwidth]{images/userModel.png}
+                        \caption{User Model}
+                        \label{fig:userModel}
+                    \end{figure}
+         
+                    \begin{figure}[h]
+                        \centering
+                        \includegraphics[width=0.65\textwidth]{images/parkerModel.png}
+                        \caption{Parker Model}
+                        \label{fig:parkerModel}
+                    \end{figure}
+
+
+                    \begin{figure}[h]
+                        \centering
+                        \includegraphics[width=0.65\textwidth]{images/sellerModel.png}
+                        \caption{Seller Model}
+                        \label{fig:sellerModel}
+                    \end{figure}
+
+                    \begin{figure}[h]
+                        \centering
+                        \includegraphics[width=0.7\textwidth]{images/carsModel.png}
+                        \caption{Car Model}
+                        \label{fig:carsModel}
+                    \end{figure}
+  
+                    \begin{figure}[h]
+                        \centering
+                        \includegraphics[width=1\textwidth]{images/spotModel.png}
+                        \caption{Spots Model}
+                        \label{fig:spotModel}
+                    \end{figure}
+
+                    \begin{figure}[h]
+                        \centering
+                        \includegraphics[width=0.8\textwidth]{images/bookingModel.png}
+                        \caption{Booking Request Model}
+                        \label{fig:bookingModel}
+                    \end{figure}
+
+
+                    \begin{figure}[h]
+                        \centering
+                        \includegraphics[width=0.8\textwidth]{images/notificationModel.png}
+                        \caption{Notification Model}
+                        \label{fig:notificationModel}
+                    \end{figure}
+
+
+                    \begin{figure}[h]
+                        \centering
+                        \includegraphics[width=0.8\textwidth]{images/messageModel.png}
+                        \caption{Message Model}
+                        \label{fig:messageModel}
+                    \end{figure}
+
+
+                    \begin{figure}[h]
+                        \centering
+                        \includegraphics[width=0.8\textwidth]{images/chatModel.png}
+                        \caption{Chat Model}
+                        \label{fig:chatModel}
+                    \end{figure}
+
+
+                    \pagebreak
+                    \clearpage
+                    
+                    
+                    Described the models in the following table.
+                    \begin{table}[htb]
+                        \centering
+                        \begin{tabular}{ | l | c | }
+                            \hline
+                            Model & Description \\
+                            \hline
+                            \hline
+                            User & The model that contains all the information about the user. \\
+                            \hline
+                            Parker & The model that contains all the information about the parker. \\
+                            \hline
+                            Seller & The model that contains all the information about the seller. \\
+                            \hline
+                            Car & The model that contains all the information about the car. \\
+                            \hline
+                            Spot & The model that contains all the information about the spot. \\
+                            \hline
+                            Booking & The model that contains all the information about the booking. \\
+                            \hline
+                            Notification & The model that contains all the information about the notification. \\
+                            \hline
+                            Message & The model that contains all the information about the message. \\
+                            \hline
+                            Chat & The model that contains all the information about the chat. \\
+                            \hline
+                        \end{tabular}
+                        \caption{Models}
+                        \label{tab:models}
+                    \end{table}

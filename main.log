@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.12)  12 JUN 2022 23:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.12)  13 JUN 2022 03:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -225,17 +225,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 \Hy@SectionHShift=\skip53
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 16.
- (main.aux (importantPages/titlepage.aux) (importantPages/secondpage.aux) (chapters/acknowledgement.aux) (chapters/abstract.aux) (chapters/introduction.aux) (chapters/relatedwork.aux) (chapters/requirements.aux) (chapters/design/design.aux
-
-LaTeX Warning: Label `fig:homepageWireframe' multiply defined.
-
-
-LaTeX Warning: Label `fig:parkerWireframe' multiply defined.
-
-
-LaTeX Warning: Label `fig:sellerWireframe' multiply defined.
-
-) (chapters/implementation.aux) (chapters/testing.aux) (chapters/conclusion.aux))
+ (main.aux (importantPages/titlepage.aux) (importantPages/secondpage.aux) (chapters/acknowledgement.aux) (chapters/abstract.aux) (chapters/introduction.aux) (chapters/relatedwork.aux) (chapters/requirements.aux) (chapters/design.aux) (chapters/implementation.aux) (chapters/testing.aux) (chapters/conclusion.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
@@ -324,7 +314,7 @@ Package hyperref Info: Link coloring ON on input line 25.
 \openout2 = `importantPages/titlepage.aux'.
 
  (importantPages/titlepage.tex
-<images/nu.png, id=67, 122.70844pt x 127.97812pt>
+<images/nu.png, id=95, 122.70844pt x 127.97812pt>
 File: images/nu.png Graphic file (type png)
 <use images/nu.png>
 Package pdftex.def Info: images/nu.png  used on input line 5.
@@ -413,12 +403,12 @@ Chapter 2.
 
  (chapters/requirements.tex
 Chapter 3.
-<images/Data.png, id=160, 1027.84pt x 718.685pt>
+<images/Data.png, id=217, 1027.84pt x 718.685pt>
 File: images/Data.png Graphic file (type png)
 <use images/Data.png>
 Package pdftex.def Info: images/Data.png  used on input line 9.
 (pdftex.def)             Requested size: 21.50154pt x 15.02374pt.
-<images/gps.png, id=163, 239.6955pt x 385.6809pt>
+<images/gps.png, id=220, 239.6955pt x 385.6809pt>
 File: images/gps.png Graphic file (type png)
 <use images/gps.png>
 Package pdftex.def Info: images/gps.png  used on input line 11.
@@ -429,11 +419,11 @@ Package pdftex.def Info: images/gps.png  used on input line 11.
 
 
  <./images/Data.png> <./images/gps.png>]
-\openout2 = `chapters/design/design.aux'.
+\openout2 = `chapters/design.aux'.
 
- (chapters/design/design.tex
+ (chapters/design.tex
 Chapter 4.
-<images/useState.png, id=174, 328.22626pt x 48.93282pt>
+<images/useState.png, id=231, 328.22626pt x 48.93282pt>
 File: images/useState.png Graphic file (type png)
 <use images/useState.png>
 Package pdftex.def Info: images/useState.png  used on input line 19.
@@ -444,56 +434,149 @@ Package pdftex.def Info: images/useState.png  used on input line 19.
 
 
  <./images/useState.png>]
-<images/useMemo.png, id=179, 422.32782pt x 479.54156pt>
+<images/useMemo.png, id=236, 422.32782pt x 479.54156pt>
 File: images/useMemo.png Graphic file (type png)
 <use images/useMemo.png>
 Package pdftex.def Info: images/useMemo.png  used on input line 32.
 (pdftex.def)             Requested size: 344.005pt x 390.61438pt.
  [11 <./images/useMemo.png>]
-<images/homepageWireframe.png, id=185, 625.58719pt x 280.04625pt>
+<images/homepageWireframe.png, id=242, 625.58719pt x 280.04625pt>
 File: images/homepageWireframe.png Graphic file (type png)
 <use images/homepageWireframe.png>
 Package pdftex.def Info: images/homepageWireframe.png  used on input line 48.
 (pdftex.def)             Requested size: 258.00539pt x 115.49913pt.
-<images/parkerWireframe.png, id=186, 934.24031pt x 283.0575pt>
+<images/parkerWireframe.png, id=243, 934.24031pt x 283.0575pt>
 File: images/parkerWireframe.png Graphic file (type png)
 <use images/parkerWireframe.png>
 Package pdftex.def Info: images/parkerWireframe.png  used on input line 55.
 (pdftex.def)             Requested size: 258.00539pt x 78.17145pt.
-<images/sellerWireframe.png, id=187, 597.73312pt x 268.00125pt>
+<images/sellerWireframe.png, id=244, 597.73312pt x 268.00125pt>
 File: images/sellerWireframe.png Graphic file (type png)
 <use images/sellerWireframe.png>
 Package pdftex.def Info: images/sellerWireframe.png  used on input line 62.
 (pdftex.def)             Requested size: 258.00539pt x 115.67993pt.
  [12 <./images/homepageWireframe.png> <./images/parkerWireframe.png> <./images/sellerWireframe.png>]
-File: images/homepageWireframe.png Graphic file (type png)
-<use images/homepageWireframe.png>
-Package pdftex.def Info: images/homepageWireframe.png  used on input line 74.
-(pdftex.def)             Requested size: 258.00539pt x 115.49913pt.
-File: images/parkerWireframe.png Graphic file (type png)
-<use images/parkerWireframe.png>
-Package pdftex.def Info: images/parkerWireframe.png  used on input line 81.
-(pdftex.def)             Requested size: 258.00539pt x 78.17145pt.
-File: images/sellerWireframe.png Graphic file (type png)
-<use images/sellerWireframe.png>
-Package pdftex.def Info: images/sellerWireframe.png  used on input line 88.
-(pdftex.def)             Requested size: 258.00539pt x 115.67993pt.
-) [13]
+<images/colorScheme.png, id=249, 764.8575pt x 273.27094pt>
+File: images/colorScheme.png Graphic file (type png)
+<use images/colorScheme.png>
+Package pdftex.def Info: images/colorScheme.png  used on input line 74.
+(pdftex.def)             Requested size: 344.005pt x 122.90822pt.
+<images/ui1.png, id=250, 1574.88374pt x 632.3625pt>
+File: images/ui1.png Graphic file (type png)
+<use images/ui1.png>
+Package pdftex.def Info: images/ui1.png  used on input line 81.
+(pdftex.def)             Requested size: 344.005pt x 138.12633pt.
+<images/ui2.png, id=251, 1565.85pt x 632.3625pt>
+File: images/ui2.png Graphic file (type png)
+<use images/ui2.png>
+Package pdftex.def Info: images/ui2.png  used on input line 88.
+(pdftex.def)             Requested size: 344.005pt x 138.91754pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/ui3.png, id=252, 1549.28813pt x 632.3625pt>
+File: images/ui3.png Graphic file (type png)
+<use images/ui3.png>
+Package pdftex.def Info: images/ui3.png  used on input line 96.
+(pdftex.def)             Requested size: 344.005pt x 140.4035pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[13 <./images/colorScheme.png> <./images/ui1.png>] [14 <./images/ui2.png> <./images/ui3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+
+ []
+
+<images/userModel.png, id=261, 740.0147pt x 590.205pt>
+File: images/userModel.png Graphic file (type png)
+<use images/userModel.png>
+Package pdftex.def Info: images/userModel.png  used on input line 111.
+(pdftex.def)             Requested size: 258.00539pt x 205.77332pt.
+<images/parkerModel.png, id=262, 323.70938pt x 613.54219pt>
+File: images/parkerModel.png Graphic file (type png)
+<use images/parkerModel.png>
+Package pdftex.def Info: images/parkerModel.png  used on input line 118.
+(pdftex.def)             Requested size: 279.50037pt x 529.77988pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/sellerModel.png, id=263, 328.97906pt x 592.46344pt>
+File: images/sellerModel.png Graphic file (type png)
+<use images/sellerModel.png>
+Package pdftex.def Info: images/sellerModel.png  used on input line 126.
+(pdftex.def)             Requested size: 279.50037pt x 503.3703pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/carsModel.png, id=264, 305.64188pt x 496.85625pt>
+File: images/carsModel.png Graphic file (type png)
+<use images/carsModel.png>
+Package pdftex.def Info: images/carsModel.png  used on input line 133.
+(pdftex.def)             Requested size: 301.00192pt x 489.33426pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/spotModel.png, id=265, 882.29625pt x 642.14906pt>
+File: images/spotModel.png Graphic file (type png)
+<use images/spotModel.png>
+Package pdftex.def Info: images/spotModel.png  used on input line 140.
+(pdftex.def)             Requested size: 430.00462pt x 312.96066pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/bookingModel.png, id=266, 384.6872pt x 557.83406pt>
+File: images/bookingModel.png Graphic file (type png)
+<use images/bookingModel.png>
+Package pdftex.def Info: images/bookingModel.png  used on input line 147.
+(pdftex.def)             Requested size: 344.005pt x 498.8796pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/notificationModel.png, id=267, 357.58594pt x 363.60844pt>
+File: images/notificationModel.png Graphic file (type png)
+<use images/notificationModel.png>
+Package pdftex.def Info: images/notificationModel.png  used on input line 155.
+(pdftex.def)             Requested size: 344.005pt x 349.82024pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/messageModel.png, id=268, 321.45094pt x 153.57375pt>
+File: images/messageModel.png Graphic file (type png)
+<use images/messageModel.png>
+Package pdftex.def Info: images/messageModel.png  used on input line 163.
+(pdftex.def)             Requested size: 344.005pt x 164.35509pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/chatModel.png, id=269, 261.22594pt x 255.95625pt>
+File: images/chatModel.png Graphic file (type png)
+<use images/chatModel.png>
+Package pdftex.def Info: images/chatModel.png  used on input line 171.
+(pdftex.def)             Requested size: 344.005pt x 337.07045pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[15
+
+ <./images/userModel.png>] [16 <./images/parkerModel.png>] [17 <./images/sellerModel.png>] [18 <./images/carsModel.png>] [19 <./images/spotModel.png>] [20 <./images/bookingModel.png>] [21 <./images/notificationModel.png>] [22 <./images/messageModel.png>] [23 <./images/chatModel.png>]) [24
+
+]
 \openout2 = `chapters/implementation.aux'.
 
  (chapters/implementation.tex
 Chapter 5.
-) [14
+[25
 
 
 
 
-]
+] [26] [27] [28]) [29]
 \openout2 = `chapters/testing.aux'.
 
  (chapters/testing.tex
 Chapter 6.
-) [15
+) [30
 
 
 
@@ -503,34 +586,31 @@ Chapter 6.
 
  (chapters/conclusion.tex
 Chapter 7.
-) [16
+) [31
 
 
 
 
-] (main.bbl) [17
+] (main.bbl) [32
 
 
 
-] (main.aux (importantPages/titlepage.aux) (importantPages/secondpage.aux) (chapters/acknowledgement.aux) (chapters/abstract.aux) (chapters/introduction.aux) (chapters/relatedwork.aux) (chapters/requirements.aux) (chapters/design/design.aux) (chapters/implementation.aux) (chapters/testing.aux) (chapters/conclusion.aux))
-
-LaTeX Warning: There were multiply-defined labels.
-
+] (main.aux (importantPages/titlepage.aux) (importantPages/secondpage.aux) (chapters/acknowledgement.aux) (chapters/abstract.aux) (chapters/introduction.aux) (chapters/relatedwork.aux) (chapters/requirements.aux) (chapters/design.aux) (chapters/implementation.aux) (chapters/testing.aux) (chapters/conclusion.aux))
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D40E8836314672388C2201B019B49D1F;1678.
+(rerunfilecheck)             Checksum: 7302723917E3180C6DACC645E9E224AC;2350.
  ) 
 Here is how much of TeX's memory you used:
- 13659 strings out of 478614
- 249080 string characters out of 2842178
- 530894 words of memory out of 3000000
- 31533 multiletter control sequences out of 15000+600000
+ 13802 strings out of 478614
+ 251563 string characters out of 2842178
+ 531424 words of memory out of 3000000
+ 31632 multiletter control sequences out of 15000+600000
  472363 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,8n,77p,1338b,402s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,9n,77p,1338b,402s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\Elusive\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Elusive/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Elusive/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Elusive/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Elusive/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Elusive/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Elusive/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (19 pages, 342063 bytes).
+Output written on main.pdf (34 pages, 1460105 bytes).
 PDF statistics:
- 259 PDF objects out of 1000 (max. 8388607)
- 52 named destinations out of 1000 (max. 500000)
- 187 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 399 PDF objects out of 1000 (max. 8388607)
+ 85 named destinations out of 1000 (max. 500000)
+ 308 words of extra memory for PDF output out of 10000 (max. 10000000)
 
