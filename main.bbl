@@ -1,0 +1,29 @@
+\begin{thebibliography}{1}
+
+\bibitem{cai2015implementation}
+Wenyu Cai, Dong Zhang, and Yongjie Pan.
+\newblock Implementation of smart parking guidance system based on parking lots
+  sensors networks.
+\newblock In {\em 2015 IEEE 16th International Conference on Communication
+  Technology (ICCT)}, pages 419--424. IEEE, 2015.
+
+\bibitem{mitsopoulou2017efficient}
+Ellen Mitsopoulou and Vana Kalogeraki.
+\newblock Efficient parking allocation for smartcities.
+\newblock In {\em Proceedings of the 10th International Conference on PErvasive
+  Technologies Related to Assistive Environments}, pages 265--268, 2017.
+
+\bibitem{park2008parking}
+Wan-Joo Park, Byung-Sung Kim, Dong-Eun Seo, Dong-Suk Kim, and Kwae-Hi Lee.
+\newblock Parking space detection using ultrasonic sensor in parking assistance
+  system.
+\newblock In {\em 2008 IEEE intelligent vehicles symposium}, pages 1039--1044.
+  IEEE, 2008.
+
+\bibitem{yusnita2012intelligent}
+Rahayu Yusnita, Fariza Norbaya, and Norazwinawati Basharuddin.
+\newblock Intelligent parking space detection system based on image processing.
+\newblock {\em International Journal of Innovation, Management and Technology},
+  3(3):232--235, 2012.
+
+\end{thebibliography}

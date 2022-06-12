@@ -1,18 +1,46 @@
 \documentclass[10pt]{report}
-
 \usepackage{babel}
 \usepackage{geometry}
 \usepackage{graphicx}
 \usepackage{array}
+\usepackage[pagestyles]{titlesec}
+\usepackage{fontawesome5}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    filecolor=black,      
+    urlcolor=black,
+    pdftitle={Parkour - Parking Assistant},
+    pdfpagemode=FullScreen,
+    }
 
+\titleformat{\chapter}[display]{\normalfont\bfseries}{}{0pt}{\Huge}
+\newpagestyle{mystyle}
+{\sethead[\thepage][][\chaptertitle]{}{}{\thepage}}
+\pagestyle{mystyle}
+\renewcommand{\bibname}{References}
 
 
 \begin{document}
-
 \include{importantPages/titlepage}
-
 \include{importantPages/secondpage}
+\include{chapters/acknowledgement}
+\include{chapters/abstract}
 
-Abstract
-hello world
+\tableofcontents
+\listoffigures
+\listoftables
+
+\include{chapters/introduction}
+\include{chapters/relatedwork}
+\include{chapters/requirements}
+\include{chapters/design/design}
+\include{chapters/implementation}
+\include{chapters/testing}
+\include{chapters/conclusion}
+
+\bibliographystyle{plain}
+\bibliography{references/parking}
+
 \end{document}

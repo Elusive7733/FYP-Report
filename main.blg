@@ -1,0 +1,70 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 29 items.
+A level-1 auxiliary file: importantPages/titlepage.aux
+Reallocating 'name_of_file' (item size: 1) to 30 items.
+A level-1 auxiliary file: importantPages/secondpage.aux
+Reallocating 'name_of_file' (item size: 1) to 29 items.
+A level-1 auxiliary file: chapters/acknowledgement.aux
+Reallocating 'name_of_file' (item size: 1) to 22 items.
+A level-1 auxiliary file: chapters/abstract.aux
+Reallocating 'name_of_file' (item size: 1) to 26 items.
+A level-1 auxiliary file: chapters/introduction.aux
+Reallocating 'name_of_file' (item size: 1) to 25 items.
+A level-1 auxiliary file: chapters/relatedwork.aux
+Reallocating 'name_of_file' (item size: 1) to 26 items.
+A level-1 auxiliary file: chapters/requirements.aux
+Reallocating 'name_of_file' (item size: 1) to 27 items.
+A level-1 auxiliary file: chapters/design/design.aux
+Reallocating 'name_of_file' (item size: 1) to 28 items.
+A level-1 auxiliary file: chapters/implementation.aux
+Reallocating 'name_of_file' (item size: 1) to 21 items.
+A level-1 auxiliary file: chapters/testing.aux
+Reallocating 'name_of_file' (item size: 1) to 24 items.
+A level-1 auxiliary file: chapters/conclusion.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: plain.bst
+Reallocating 'name_of_file' (item size: 1) to 19 items.
+Database file #1: references/parking.bib
+You've used 4 entries,
+            2118 wiz_defined-function locations,
+            533 strings with 5203 characters,
+and the built_in function-call counts, 1927 in all, are:
+= -- 201
+> -- 77
+< -- 3
++ -- 30
+- -- 26
+* -- 127
+:= -- 286
+add.period$ -- 14
+call.type$ -- 4
+change.case$ -- 25
+chr.to.int$ -- 0
+cite$ -- 4
+duplicate$ -- 82
+empty$ -- 154
+format.name$ -- 26
+if$ -- 432
+int.to.chr$ -- 0
+int.to.str$ -- 4
+missing$ -- 4
+newline$ -- 23
+num.names$ -- 8
+pop$ -- 32
+preamble$ -- 1
+purify$ -- 21
+quote$ -- 0
+skip$ -- 67
+stack$ -- 0
+substring$ -- 149
+swap$ -- 36
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 16
+warning$ -- 0
+while$ -- 19
+width$ -- 5
+write$ -- 48
