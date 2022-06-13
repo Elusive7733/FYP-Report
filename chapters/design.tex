@@ -117,28 +117,26 @@
                     Described the models in the following table.
                     \begin{table}[htb]
                         \centering
-                        \begin{tabular}{ | l | c | }
+                        \begin{tabular}{ | l | p{125mm} |}
                             \hline
                             Model & Description \\
                             \hline
                             \hline
-                            User & The model that contains all the information about the user. \\
+                            User & Schema containing personal information. Through sub documenting, the information of the user's "seller" and "parker" accounts is also stored here.\\
                             \hline
-                            Parker & The model that contains all the information about the parker. \\
+                            Parker & All user attachments related to their "parker" role, along with transactional parker states. \\
                             \hline
-                            Seller & The model that contains all the information about the seller. \\
+                            Seller & All user attachments related to their "parker" role, along with transactional parker states. \\
                             \hline
-                            Car & The model that contains all the information about the car. \\
+                            Car & Parker's car data to be shown in transactions. \\
                             \hline
-                            Spot & The model that contains all the information about the spot. \\
+                            Spot & Seller's spot data, its location, images, status, ratings etc. \\
                             \hline
-                            Booking & The model that contains all the information about the booking. \\
+                            Booking Request & Purely transactional data relating to parker's request and the spot requested. \\
                             \hline
-                            Notification & The model that contains all the information about the notification. \\
+                            Notification & Used to cache notifications  \\
                             \hline
-                            Message & The model that contains all the information about the message. \\
-                            \hline
-                            Chat & The model that contains all the information about the chat. \\
+                            Chat & The model that contains all the information about chat between parkers and sellers. \\
                             \hline
                         \end{tabular}
                         \caption{Models}

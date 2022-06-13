@@ -1,14 +1,14 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.12)  13 JUN 2022 19:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.13)  13 JUN 2022 21:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"d:/Abdullahs Data/GitHub/Working Repos/FYP-Report/main.tex"
-(d:/Abdullahs Data/GitHub/Working Repos/FYP-Report/main.tex
+**"d:/Ammar/- Github Repos/FYP-Report/main.tex"
+(d:/Ammar/- Github Repos/FYP-Report/main.tex
 LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-05-04> (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+L3 programming layer <2022-02-24> (D:\Ammar\Softwares\MikTex\MikTex\tex/latex/base\report.cls
 Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
-(C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+(D:\Ammar\Softwares\MikTex\MikTex\tex/latex/base\size10.clo
 File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
@@ -23,34 +23,34 @@ File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
-) (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2022/05/22 3.75 The Babel package
+) (D:\Ammar\Softwares\MikTex\MikTex\tex/generic/babel\babel.sty
+Package: babel 2022/02/26 3.73 The Babel package
 \babel@savecnt=\count194
 \U@D=\dimen139
 \l@unhyphenated=\language79
- (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+ (D:\Ammar\Softwares\MikTex\MikTex\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count195
 
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+(D:\Ammar\Softwares\MikTex\MikTex\tex/latex/arabi\bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
 )
 Package babel Info: You haven't specified a language. I'll use 'nil'
-(babel)             as the main language. Reported on input line 4360.
- (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/generic/babel\nil.ldf
-Language: nil 2022/05/22 3.75 Nil language
+(babel)             as the main language. Reported on input line 4305.
+ (D:\Ammar\Softwares\MikTex\MikTex\tex/generic/babel\nil.ldf
+Language: nil 2022/02/26 3.73 Nil language
 \l@nil=\language80
-)) (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+)) (D:\Ammar\Softwares\MikTex\MikTex\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+ (D:\Ammar\Softwares\MikTex\MikTex\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
-) (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+) (D:\Ammar\Softwares\MikTex\MikTex\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+ (D:\Ammar\Softwares\MikTex\MikTex\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count196
@@ -65,22 +65,22 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layouthoffset=\dimen146
 \Gm@layoutvoffset=\dimen147
 \Gm@dimlist=\toks17
- (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+ (D:\Ammar\Softwares\MikTex\MikTex\tex/latex/geometry\geometry.cfg)) (D:\Ammar\Softwares\MikTex\MikTex\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+ (D:\Ammar\Softwares\MikTex\MikTex\tex/latex/graphics\graphics.sty
 Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
- (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+ (D:\Ammar\Softwares\MikTex\MikTex\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+) (D:\Ammar\Softwares\MikTex\MikTex\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
- (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+ (D:\Ammar\Softwares\MikTex\MikTex\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen148
 \Gin@req@width=\dimen149
-) (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+) (D:\Ammar\Softwares\MikTex\MikTex\tex/latex/tools\array.sty
 Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
 \col@sep=\dimen150
 \ar@mcellbox=\box50
@@ -89,7 +89,7 @@ Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
 \extratabsurround=\skip49
 \backup@length=\skip50
 \ar@cellbox=\box51
-) (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+) (D:\Ammar\Softwares\MikTex\MikTex\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \ttl@box=\box52
 \beforetitleunit=\skip51
@@ -100,124 +100,116 @@ Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \titlewidth=\dimen154
 \titlewidthlast=\dimen155
 \titlewidthfirst=\dimen156
- (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titleps.sty)) (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesome5.sty (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2022-05-04 L3 programming layer (loader) 
- (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-04-20 L3 backend support: PDF output (pdfTeX)
+ (D:\Ammar\Softwares\MikTex\MikTex\tex/latex/titlesec\titleps.sty)) (D:\Ammar\Softwares\MikTex\MikTex\tex/latex/fontawesome5\fontawesome5.sty (D:\Ammar\Softwares\MikTex\MikTex\tex/latex/l3kernel\expl3.sty
+Package: expl3 2022-02-24 L3 programming layer (loader) 
+ (D:\Ammar\Softwares\MikTex\MikTex\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count199
 \l__pdf_internal_box=\box53
 ))
 Package: fontawesome5 2022/05/02 v5.15.4 Font Awesome 5
- (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty
+ (D:\Ammar\Softwares\MikTex\MikTex\tex/latex/l3packages/l3keys2e\l3keys2e.sty
 Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
-) (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+) (D:\Ammar\Softwares\MikTex\MikTex\tex/latex/l3packages/xparse\xparse.sty
 Package: xparse 2022-01-12 L3 Experimental document command parser
-) (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesome5-generic-helper.sty
+) (D:\Ammar\Softwares\MikTex\MikTex\tex/latex/fontawesome5\fontawesome5-generic-helper.sty
 Package: fontawesome5-generic-helper 2022/05/02 v5.15.4 non-uTeX helper for fontawesome5
- (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesome5-mapping.def))) (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
-Package: hyperref 2022-05-17 v7.00q Hypertext links for LaTeX
- (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+ (D:\Ammar\Softwares\MikTex\MikTex\tex/latex/fontawesome5\fontawesome5-mapping.def))) (D:\Ammar\Softwares\MikTex\MikTex\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2022-02-21 v7.00n Hypertext links for LaTeX
+ (D:\Ammar\Softwares\MikTex\MikTex\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+) (D:\Ammar\Softwares\MikTex\MikTex\tex/generic/pdftexcmds\pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+ (D:\Ammar\Softwares\MikTex\MikTex\tex/generic/infwarerr\infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-) (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty
+) (D:\Ammar\Softwares\MikTex\MikTex\tex/generic/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-) (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+) (D:\Ammar\Softwares\MikTex\MikTex\tex/generic/kvdefinekeys\kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+) (D:\Ammar\Softwares\MikTex\MikTex\tex/generic/pdfescape\pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-) (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+) (D:\Ammar\Softwares\MikTex\MikTex\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
+) (D:\Ammar\Softwares\MikTex\MikTex\tex/latex/letltxmacro\letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-) (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+) (D:\Ammar\Softwares\MikTex\MikTex\tex/latex/auxhook\auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
-) (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
-Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
- (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
-Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-) (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
-Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
- (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+) (D:\Ammar\Softwares\MikTex\MikTex\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
-))
-\c@section@level=\count266
 )
 \@linkdim=\dimen157
-\Hy@linkcounter=\count267
-\Hy@pagecounter=\count268
- (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
-File: pd1enc.def 2022-05-17 v7.00q Hyperref: PDFDocEncoding definition (HO)
+\Hy@linkcounter=\count266
+\Hy@pagecounter=\count267
+ (D:\Ammar\Softwares\MikTex\MikTex\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2022-02-21 v7.00n Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-) (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+) (D:\Ammar\Softwares\MikTex\MikTex\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
-) (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+) (D:\Ammar\Softwares\MikTex\MikTex\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count269
- (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
-File: puenc.def 2022-05-17 v7.00q Hyperref: PDF Unicode definition (HO)
+\Hy@SavedSpaceFactor=\count268
+ (D:\Ammar\Softwares\MikTex\MikTex\tex/latex/hyperref\puenc.def
+File: puenc.def 2022-02-21 v7.00n Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Hyper figures OFF on input line 4139.
-Package hyperref Info: Link nesting OFF on input line 4144.
-Package hyperref Info: Hyper index ON on input line 4147.
-Package hyperref Info: Plain pages OFF on input line 4154.
-Package hyperref Info: Backreferencing OFF on input line 4159.
+Package hyperref Info: Hyper figures OFF on input line 4137.
+Package hyperref Info: Link nesting OFF on input line 4142.
+Package hyperref Info: Hyper index ON on input line 4145.
+Package hyperref Info: Plain pages OFF on input line 4152.
+Package hyperref Info: Backreferencing OFF on input line 4157.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4385.
-\c@Hy@tempcnt=\count270
- (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+Package hyperref Info: Bookmarks ON on input line 4390.
+\c@Hy@tempcnt=\count269
+ (D:\Ammar\Softwares\MikTex\MikTex\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4723.
+LaTeX Info: Redefining \url on input line 4749.
 \XeTeXLinkMargin=\dimen158
- (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+ (D:\Ammar\Softwares\MikTex\MikTex\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
- (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+ (D:\Ammar\Softwares\MikTex\MikTex\tex/generic/bigintcalc\bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count271
+\Fld@menulength=\count270
 \Field@Width=\dimen159
 \Fld@charsize=\dimen160
-Package hyperref Info: Hyper figures OFF on input line 6001.
-Package hyperref Info: Link nesting OFF on input line 6006.
-Package hyperref Info: Hyper index ON on input line 6009.
-Package hyperref Info: backreferencing OFF on input line 6016.
-Package hyperref Info: Link coloring OFF on input line 6021.
-Package hyperref Info: Link coloring with OCG OFF on input line 6026.
-Package hyperref Info: PDF/A mode OFF on input line 6031.
-LaTeX Info: Redefining \ref on input line 6078.
-LaTeX Info: Redefining \pageref on input line 6078.
- (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring OFF on input line 6047.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
+LaTeX Info: Redefining \ref on input line 6097.
+LaTeX Info: Redefining \pageref on input line 6101.
+ (D:\Ammar\Softwares\MikTex\MikTex\tex/latex/base\atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count272
-\c@Item=\count273
-\c@Hfootnote=\count274
+\Hy@abspage=\count271
+\c@Item=\count272
+\c@Hfootnote=\count273
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
- (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
-File: hpdftex.def 2022-05-17 v7.00q Hyperref driver for pdfTeX
- (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+ (D:\Ammar\Softwares\MikTex\MikTex\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2022-02-21 v7.00n Hyperref driver for pdfTeX
+ (D:\Ammar\Softwares\MikTex\MikTex\tex/latex/base\atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
-\Fld@listcount=\count275
-\c@bookmark@seq@number=\count276
- (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+\Fld@listcount=\count274
+\c@bookmark@seq@number=\count275
+ (D:\Ammar\Softwares\MikTex\MikTex\tex/latex/rerunfilecheck\rerunfilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
- (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+ (D:\Ammar\Softwares\MikTex\MikTex\tex/generic/uniquecounter\uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
@@ -286,32 +278,44 @@ LaTeX Font Info:    ... okay on input line 33.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+(D:\Ammar\Softwares\MikTex\MikTex\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count277
+\scratchcounter=\count276
 \scratchdimen=\dimen161
 \scratchbox=\box54
-\nofMPsegments=\count278
-\nofMParguments=\count279
+\nofMPsegments=\count277
+\nofMParguments=\count278
 \everyMPshowfont=\toks20
-\MPscratchCnt=\count280
+\MPscratchCnt=\count279
 \MPscratchDim=\dimen162
-\MPnumerator=\count281
-\makeMPintoPDFobject=\count282
+\MPnumerator=\count280
+\makeMPintoPDFobject=\count281
 \everyMPtoPDFconversion=\toks21
-) (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+) (D:\Ammar\Softwares\MikTex\MikTex\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+ (D:\Ammar\Softwares\MikTex\MikTex\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-)) (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+)) (D:\Ammar\Softwares\MikTex\MikTex\tex/latex/graphics\color.sty
 Package: color 2021/12/07 v1.3c Standard LaTeX Color (DPC)
- (C:\Users\Elusive\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+ (D:\Ammar\Softwares\MikTex\MikTex\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
 )
 Package hyperref Info: Link coloring ON on input line 33.
+ (D:\Ammar\Softwares\MikTex\MikTex\tex/latex/hyperref\nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+ (D:\Ammar\Softwares\MikTex\MikTex\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (D:\Ammar\Softwares\MikTex\MikTex\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count282
+)
+LaTeX Info: Redefining \ref on input line 33.
+LaTeX Info: Redefining \pageref on input line 33.
+LaTeX Info: Redefining \nameref on input line 33.
  (main.out) (main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
@@ -327,7 +331,7 @@ Package pdftex.def Info: images/nu.png  used on input line 5.
  [1
 
 
-{C:/Users/Elusive/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images/nu.png>])
+{C:/Users/Mountain Dew/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images/nu.png>])
 \openout2 = `importantPages/secondpage.aux'.
 
  (importantPages/secondpage.tex
@@ -496,48 +500,58 @@ Package pdftex.def Info: images/dbDesign.png  used on input line 108.
 (pdftex.def)             Requested size: 344.005pt x 357.00273pt.
  [17
 
- <./images/dbDesign.png>] [18
+ <./images/dbDesign.png>]
+Underfull \hbox (badness 1394) in paragraph at lines 125--126
+[]|\OT1/cmr/m/n/10 Schema containing personal information. Through sub documenting, the
+ []
+
+
+Overfull \hbox (25.0772pt too wide) in paragraph at lines 120--142
+ [][] 
+ []
+
+[18
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 154--155
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--162
+Underfull \hbox (badness 10000) in paragraph at lines 158--160
 
  []
 
 <images/externalInterface.png, id=441, 464.4853pt x 462.22687pt>
 File: images/externalInterface.png Graphic file (type png)
 <use images/externalInterface.png>
-Package pdftex.def Info: images/externalInterface.png  used on input line 165.
+Package pdftex.def Info: images/externalInterface.png  used on input line 163.
 (pdftex.def)             Requested size: 301.00192pt x 299.54817pt.
 [19 <./images/externalInterface.png>]
 <images/server.png, id=446, 1359.0775pt x 516.93124pt>
 File: images/server.png Graphic file (type png)
 <use images/server.png>
-Package pdftex.def Info: images/server.png  used on input line 183.
+Package pdftex.def Info: images/server.png  used on input line 181.
 (pdftex.def)             Requested size: 344.005pt x 130.84158pt.
  [20 <./images/server.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 193--194
+Underfull \hbox (badness 10000) in paragraph at lines 191--192
 
  []
 
 <images/FE_Architecture.png, id=452, 1512.65125pt x 574.145pt>
 File: images/FE_Architecture.png Graphic file (type png)
 <use images/FE_Architecture.png>
-Package pdftex.def Info: images/FE_Architecture.png  used on input line 197.
+Package pdftex.def Info: images/FE_Architecture.png  used on input line 195.
 (pdftex.def)             Requested size: 344.005pt x 130.57pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 206--207
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
 
  []
 
 <images/WholeArcitectrue.png, id=453, 2839.60875pt x 691.58376pt>
 File: images/WholeArcitectrue.png Graphic file (type png)
 <use images/WholeArcitectrue.png>
-Package pdftex.def Info: images/WholeArcitectrue.png  used on input line 210.
+Package pdftex.def Info: images/WholeArcitectrue.png  used on input line 208.
 (pdftex.def)             Requested size: 430.00462pt x 104.72504pt.
 ) [21 <./images/FE_Architecture.png> <./images/WholeArcitectrue.png>]
 \openout2 = `chapters/implementation.aux'.
@@ -547,7 +561,7 @@ Chapter 5.
 <images/APIkey.png, id=460, 829.59938pt x 103.13531pt>
 File: images/APIkey.png Graphic file (type png)
 <use images/APIkey.png>
-Package pdftex.def Info: images/APIkey.png  used on input line 37.
+Package pdftex.def Info: images/APIkey.png  used on input line 39.
 (pdftex.def)             Requested size: 344.005pt x 42.76572pt.
 [22
 
@@ -558,96 +572,96 @@ Package pdftex.def Info: images/APIkey.png  used on input line 37.
 <images/redux_store.png, id=465, 155.83218pt x 37.64063pt>
 File: images/redux_store.png Graphic file (type png)
 <use images/redux_store.png>
-Package pdftex.def Info: images/redux_store.png  used on input line 48.
+Package pdftex.def Info: images/redux_store.png  used on input line 50.
 (pdftex.def)             Requested size: 215.0023pt x 51.93375pt.
 <images/storeSlice.png, id=466, 389.95688pt x 657.95813pt>
 File: images/storeSlice.png Graphic file (type png)
 <use images/storeSlice.png>
-Package pdftex.def Info: images/storeSlice.png  used on input line 59.
+Package pdftex.def Info: images/storeSlice.png  used on input line 61.
 (pdftex.def)             Requested size: 182.75327pt x 308.34683pt.
  [23 <./images/redux_store.png> <./images/storeSlice.png>]
 <images/routes.png, id=472, 510.40688pt x 608.2725pt>
 File: images/routes.png Graphic file (type png)
 <use images/routes.png>
-Package pdftex.def Info: images/routes.png  used on input line 71.
+Package pdftex.def Info: images/routes.png  used on input line 73.
 (pdftex.def)             Requested size: 301.00192pt x 358.72917pt.
  [24 <./images/routes.png>]
 <images/firebaseConfig.png, id=477, 359.09157pt x 213.79875pt>
 File: images/firebaseConfig.png Graphic file (type png)
 <use images/firebaseConfig.png>
-Package pdftex.def Info: images/firebaseConfig.png  used on input line 83.
+Package pdftex.def Info: images/firebaseConfig.png  used on input line 85.
 (pdftex.def)             Requested size: 301.00192pt x 179.22433pt.
  [25 <./images/firebaseConfig.png>]
 <images/folderStructure.png, id=482, 103.88812pt x 433.62pt>
 File: images/folderStructure.png Graphic file (type png)
 <use images/folderStructure.png>
-Package pdftex.def Info: images/folderStructure.png  used on input line 94.
+Package pdftex.def Info: images/folderStructure.png  used on input line 96.
 (pdftex.def)             Requested size: 85.9996pt x 358.97159pt.
  [26 <./images/folderStructure.png>]
 <images/googleMap.png, id=487, 435.87843pt x 643.6547pt>
 File: images/googleMap.png Graphic file (type png)
 <use images/googleMap.png>
-Package pdftex.def Info: images/googleMap.png  used on input line 107.
+Package pdftex.def Info: images/googleMap.png  used on input line 109.
 (pdftex.def)             Requested size: 258.00539pt x 380.99046pt.
  [27 <./images/googleMap.png>]
 <images/dbConnection.png, id=492, 405.01312pt x 174.6525pt>
 File: images/dbConnection.png Graphic file (type png)
 <use images/dbConnection.png>
-Package pdftex.def Info: images/dbConnection.png  used on input line 123.
+Package pdftex.def Info: images/dbConnection.png  used on input line 125.
 (pdftex.def)             Requested size: 344.005pt x 148.34605pt.
  [28 <./images/dbConnection.png>]
 <images/BE_Routes.png, id=497, 392.96812pt x 233.37187pt>
 File: images/BE_Routes.png Graphic file (type png)
 <use images/BE_Routes.png>
-Package pdftex.def Info: images/BE_Routes.png  used on input line 134.
+Package pdftex.def Info: images/BE_Routes.png  used on input line 136.
 (pdftex.def)             Requested size: 344.005pt x 204.3067pt.
  [29 <./images/BE_Routes.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 142--143
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
 
  []
 
 <images/socketConnection.png, id=503, 443.40656pt x 64.74188pt>
 File: images/socketConnection.png Graphic file (type png)
 <use images/socketConnection.png>
-Package pdftex.def Info: images/socketConnection.png  used on input line 146.
+Package pdftex.def Info: images/socketConnection.png  used on input line 148.
 (pdftex.def)             Requested size: 344.005pt x 50.23073pt.
 <images/chatServer.png, id=504, 299.61937pt x 124.21407pt>
 File: images/chatServer.png Graphic file (type png)
 <use images/chatServer.png>
-Package pdftex.def Info: images/chatServer.png  used on input line 155.
+Package pdftex.def Info: images/chatServer.png  used on input line 157.
 (pdftex.def)             Requested size: 344.005pt x 142.62518pt.
 [30 <./images/socketConnection.png> <./images/chatServer.png>]
 <images/user_Routes.png, id=509, 326.72063pt x 380.92313pt>
 File: images/user_Routes.png Graphic file (type png)
 <use images/user_Routes.png>
-Package pdftex.def Info: images/user_Routes.png  used on input line 167.
+Package pdftex.def Info: images/user_Routes.png  used on input line 169.
 (pdftex.def)             Requested size: 344.005pt x 401.0738pt.
  [31 <./images/user_Routes.png>]
 <images/isAuth.png, id=514, 359.84438pt x 369.63094pt>
 File: images/isAuth.png Graphic file (type png)
 <use images/isAuth.png>
-Package pdftex.def Info: images/isAuth.png  used on input line 178.
+Package pdftex.def Info: images/isAuth.png  used on input line 180.
 (pdftex.def)             Requested size: 344.005pt x 353.3865pt.
  [32 <./images/isAuth.png>]
 <images/userController.png, id=519, 298.11375pt x 450.9347pt>
 File: images/userController.png Graphic file (type png)
 <use images/userController.png>
-Package pdftex.def Info: images/userController.png  used on input line 190.
+Package pdftex.def Info: images/userController.png  used on input line 192.
 (pdftex.def)             Requested size: 258.00539pt x 390.2871pt.
  [33 <./images/userController.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 201--203
+Underfull \hbox (badness 10000) in paragraph at lines 203--205
 
  []
 
 <images/userModel.png, id=524, 740.0147pt x 590.205pt>
 File: images/userModel.png Graphic file (type png)
 <use images/userModel.png>
-Package pdftex.def Info: images/userModel.png  used on input line 206.
+Package pdftex.def Info: images/userModel.png  used on input line 208.
 (pdftex.def)             Requested size: 258.00539pt x 205.77332pt.
 <images/parkerModel.png, id=525, 323.70938pt x 613.54219pt>
 File: images/parkerModel.png Graphic file (type png)
 <use images/parkerModel.png>
-Package pdftex.def Info: images/parkerModel.png  used on input line 213.
+Package pdftex.def Info: images/parkerModel.png  used on input line 215.
 (pdftex.def)             Requested size: 279.50037pt x 529.77988pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -655,7 +669,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <images/sellerModel.png, id=526, 328.97906pt x 592.46344pt>
 File: images/sellerModel.png Graphic file (type png)
 <use images/sellerModel.png>
-Package pdftex.def Info: images/sellerModel.png  used on input line 221.
+Package pdftex.def Info: images/sellerModel.png  used on input line 223.
 (pdftex.def)             Requested size: 279.50037pt x 503.3703pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -663,7 +677,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <images/carsModel.png, id=527, 305.64188pt x 496.85625pt>
 File: images/carsModel.png Graphic file (type png)
 <use images/carsModel.png>
-Package pdftex.def Info: images/carsModel.png  used on input line 228.
+Package pdftex.def Info: images/carsModel.png  used on input line 230.
 (pdftex.def)             Requested size: 301.00192pt x 489.33426pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -671,7 +685,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <images/spotModel.png, id=528, 882.29625pt x 642.14906pt>
 File: images/spotModel.png Graphic file (type png)
 <use images/spotModel.png>
-Package pdftex.def Info: images/spotModel.png  used on input line 235.
+Package pdftex.def Info: images/spotModel.png  used on input line 237.
 (pdftex.def)             Requested size: 430.00462pt x 312.96066pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -679,7 +693,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <images/bookingModel.png, id=529, 384.6872pt x 557.83406pt>
 File: images/bookingModel.png Graphic file (type png)
 <use images/bookingModel.png>
-Package pdftex.def Info: images/bookingModel.png  used on input line 242.
+Package pdftex.def Info: images/bookingModel.png  used on input line 244.
 (pdftex.def)             Requested size: 344.005pt x 498.8796pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -687,7 +701,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <images/notificationModel.png, id=530, 357.58594pt x 363.60844pt>
 File: images/notificationModel.png Graphic file (type png)
 <use images/notificationModel.png>
-Package pdftex.def Info: images/notificationModel.png  used on input line 250.
+Package pdftex.def Info: images/notificationModel.png  used on input line 252.
 (pdftex.def)             Requested size: 344.005pt x 349.82024pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -695,7 +709,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <images/messageModel.png, id=531, 321.45094pt x 153.57375pt>
 File: images/messageModel.png Graphic file (type png)
 <use images/messageModel.png>
-Package pdftex.def Info: images/messageModel.png  used on input line 258.
+Package pdftex.def Info: images/messageModel.png  used on input line 260.
 (pdftex.def)             Requested size: 344.005pt x 164.35509pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -703,7 +717,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <images/chatModel.png, id=532, 261.22594pt x 255.95625pt>
 File: images/chatModel.png Graphic file (type png)
 <use images/chatModel.png>
-Package pdftex.def Info: images/chatModel.png  used on input line 266.
+Package pdftex.def Info: images/chatModel.png  used on input line 268.
 (pdftex.def)             Requested size: 344.005pt x 337.07045pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -712,12 +726,12 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <images/parkerBehaviour.png, id=572, 742.27313pt x 384.6872pt>
 File: images/parkerBehaviour.png Graphic file (type png)
 <use images/parkerBehaviour.png>
-Package pdftex.def Info: images/parkerBehaviour.png  used on input line 282.
+Package pdftex.def Info: images/parkerBehaviour.png  used on input line 284.
 (pdftex.def)             Requested size: 430.00462pt x 222.85458pt.
 <images/parkerBehaviour2.png, id=573, 414.79968pt x 339.51843pt>
 File: images/parkerBehaviour2.png Graphic file (type png)
 <use images/parkerBehaviour2.png>
-Package pdftex.def Info: images/parkerBehaviour2.png  used on input line 291.
+Package pdftex.def Info: images/parkerBehaviour2.png  used on input line 293.
 (pdftex.def)             Requested size: 430.00462pt x 351.97699pt.
 
 
@@ -729,7 +743,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <images/sellerBehaviour.png, id=582, 705.38531pt x 339.51843pt>
 File: images/sellerBehaviour.png Graphic file (type png)
 <use images/sellerBehaviour.png>
-Package pdftex.def Info: images/sellerBehaviour.png  used on input line 304.
+Package pdftex.def Info: images/sellerBehaviour.png  used on input line 306.
 (pdftex.def)             Requested size: 430.00462pt x 206.97124pt.
  [45
 
@@ -737,19 +751,19 @@ Package pdftex.def Info: images/sellerBehaviour.png  used on input line 304.
 <images/sellerBehaviour2.png, id=587, 463.7325pt x 374.14781pt>
 File: images/sellerBehaviour2.png Graphic file (type png)
 <use images/sellerBehaviour2.png>
-Package pdftex.def Info: images/sellerBehaviour2.png  used on input line 313.
+Package pdftex.def Info: images/sellerBehaviour2.png  used on input line 315.
 (pdftex.def)             Requested size: 430.00462pt x 346.94336pt.
  [46 <./images/sellerBehaviour2.png>]
 <images/spotBehaviour.png, id=592, 502.87875pt x 335.00156pt>
 File: images/spotBehaviour.png Graphic file (type png)
 <use images/spotBehaviour.png>
-Package pdftex.def Info: images/spotBehaviour.png  used on input line 325.
+Package pdftex.def Info: images/spotBehaviour.png  used on input line 327.
 (pdftex.def)             Requested size: 430.00462pt x 286.45486pt.
  [47 <./images/spotBehaviour.png>]
 <images/bookingRequestBehaviour.png, id=598, 594.72188pt x 306.39468pt>
 File: images/bookingRequestBehaviour.png Graphic file (type png)
 <use images/bookingRequestBehaviour.png>
-Package pdftex.def Info: images/bookingRequestBehaviour.png  used on input line 337.
+Package pdftex.def Info: images/bookingRequestBehaviour.png  used on input line 339.
 (pdftex.def)             Requested size: 430.00462pt x 221.53436pt.
 ) [48 <./images/bookingRequestBehaviour.png>]
 \openout2 = `chapters/testing.aux'.
@@ -785,15 +799,15 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: ED1644764CD9EBFBBE88602DBBAA69F1;4874.
  ) 
 Here is how much of TeX's memory you used:
- 14093 strings out of 478614
- 257870 string characters out of 2842178
- 537571 words of memory out of 3000000
- 31831 multiletter control sequences out of 15000+600000
+ 14035 strings out of 478582
+ 253605 string characters out of 2849949
+ 534453 words of memory out of 3000000
+ 31806 multiletter control sequences out of 15000+600000
  472363 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,9n,77p,1338b,402s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\Elusive\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Elusive/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Elusive/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Elusive/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Elusive/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Elusive/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Elusive/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (53 pages, 2585936 bytes).
+ 60i,11n,63p,1321b,402s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\Mountain Dew\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><D:/Ammar/Softwares/MikTex/MikTex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/Ammar/Softwares/MikTex/MikTex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/Ammar/Softwares/MikTex/MikTex/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Ammar/Softwares/MikTex/MikTex/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Ammar/Softwares/MikTex/MikTex/fonts/type1/public/amsfonts/cm/cmr9.pfb><D:/Ammar/Softwares/MikTex/MikTex/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on main.pdf (53 pages, 2586005 bytes).
 PDF statistics:
  683 PDF objects out of 1000 (max. 8388607)
  152 named destinations out of 1000 (max. 500000)
