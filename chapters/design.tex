@@ -102,77 +102,13 @@
                 \clearpage
                     
                 \section{Backend}
-                \subsection{Models}
-                \paragraph*{}
-                    It is important to highlight the models that were designed and used. \\Each modelhad been given a careful consideration to make sure that the model is as modular as possible. The models were designed to be able to be used in multiple ways.The models were also designed in such a way that it will reduce redundancy wherever possible.\\
-
-                    \begin{figure}[h]
+                    The design was planned considering the User Experience. Every effort is made to create a flexible data management method. An Example includes, maintaining history of data entities, time stamps, quality of life data.
+                   \begin{figure}[h]
                         \centering
-                        \includegraphics[width=0.6\textwidth]{images/userModel.png}
-                        \caption{User Model}
-                        \label{fig:userModel}
-                    \end{figure}
-         
-                    \begin{figure}[h]
-                        \centering
-                        \includegraphics[width=0.65\textwidth]{images/parkerModel.png}
-                        \caption{Parker Model}
-                        \label{fig:parkerModel}
-                    \end{figure}
-
-
-                    \begin{figure}[h]
-                        \centering
-                        \includegraphics[width=0.65\textwidth]{images/sellerModel.png}
-                        \caption{Seller Model}
-                        \label{fig:sellerModel}
-                    \end{figure}
-
-                    \begin{figure}[h]
-                        \centering
-                        \includegraphics[width=0.7\textwidth]{images/carsModel.png}
-                        \caption{Car Model}
-                        \label{fig:carsModel}
-                    \end{figure}
-  
-                    \begin{figure}[h]
-                        \centering
-                        \includegraphics[width=1\textwidth]{images/spotModel.png}
-                        \caption{Spots Model}
-                        \label{fig:spotModel}
-                    \end{figure}
-
-                    \begin{figure}[h]
-                        \centering
-                        \includegraphics[width=0.8\textwidth]{images/bookingModel.png}
-                        \caption{Booking Request Model}
-                        \label{fig:bookingModel}
-                    \end{figure}
-
-
-                    \begin{figure}[h]
-                        \centering
-                        \includegraphics[width=0.8\textwidth]{images/notificationModel.png}
-                        \caption{Notification Model}
-                        \label{fig:notificationModel}
-                    \end{figure}
-
-
-                    \begin{figure}[h]
-                        \centering
-                        \includegraphics[width=0.8\textwidth]{images/messageModel.png}
-                        \caption{Message Model}
-                        \label{fig:messageModel}
-                    \end{figure}
-
-
-                    \begin{figure}[h]
-                        \centering
-                        \includegraphics[width=0.8\textwidth]{images/chatModel.png}
-                        \caption{Chat Model}
-                        \label{fig:chatModel}
-                    \end{figure}
-
+                        \includegraphics[width=0.8\textwidth]{images/dbDesign.png}
+                        \caption{Database Design}
+                        \label{fig:dbDesign}
+                   \end{figure}
 
                     \pagebreak
                     \clearpage
@@ -208,3 +144,71 @@
                         \caption{Models}
                         \label{tab:models}
                     \end{table}
+
+
+
+                
+        \pagebreak
+        \section{Architecture}
+        \paragraph*{}
+        System handles Parker and Seller Interfaces separately. Sellers and Parkers will be able to indulge in transactions which are described as ‘a Parker finding a parking spot and finding one, and a seller listing their vacant parking spot for sale.’\\
+        \paragraph*{}
+        Both Parker and Seller will have digital in-app wallets to track their earnings/credits. Sellers will be able to cash in their credit after a certain number of conditions have been met.
+
+        \subsection{Interface}
+        \paragraph*{}
+        The Interface was designed to be as user friendly as possible.
+        The interface was designed to deliver the best user experience possible.\\
+
+        \begin{figure}[h]
+            \centering
+            \includegraphics[width=0.7\textwidth]{images/externalInterface.png}
+            \caption{Interface}
+            \label{fig:interface}
+        \end{figure}
+
+
+        \pagebreak
+
+        \subsection{Server}
+        \paragraph*{}
+            The server processes all the request form the frontend and makes changes to database accordingly.
+            The server also authenticates user and makes sure that the user is logged in.\\
+            The server also handles the booking request and the notification.\\
+            The server also handles the chat.\\
+            The server sends a response on each request.
+
+            \begin{figure}[h]
+                \centering
+                \includegraphics[width=0.8\textwidth]{images/server.png}
+                \caption{Server}
+                \label{fig:server}
+            \end{figure}
+
+
+            \pagebreak
+
+            \subsection{Client}
+            \paragraph*{}
+                The client makes API calls to the server as well as the Goolge Maps server. The client makes use of redux to store information that can be used throughout the application.\\
+    
+                \begin{figure}[h]
+                    \centering
+                    \includegraphics[width=0.8\textwidth]{images/FE_Architecture.png}
+                    \caption{Client}
+                    \label{fig:FE_Architecture}
+                \end{figure}
+
+
+
+                \subsection{Application}
+                \paragraph*{}
+                 The interaction between client and the server. \\
+        
+                    \begin{figure}[h]
+                        \centering
+                        \includegraphics[width=1\textwidth]{images/WholeArcitectrue.png}
+                        \caption{Application Architecture}
+                        \label{fig:Architecture}
+                    \end{figure}
+
