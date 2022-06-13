@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.12)  13 JUN 2022 21:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.12)  13 JUN 2022 21:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -319,7 +319,7 @@ Package hyperref Info: Link coloring ON on input line 33.
 \openout2 = `importantPages/titlepage.aux'.
 
  (importantPages/titlepage.tex
-<images/nu.png, id=183, 122.70844pt x 127.97812pt>
+<images/nu.png, id=191, 122.70844pt x 127.97812pt>
 File: images/nu.png Graphic file (type png)
 <use images/nu.png>
 Package pdftex.def Info: images/nu.png  used on input line 5.
@@ -408,12 +408,12 @@ Chapter 2.
 
  (chapters/requirements.tex
 Chapter 3.
-<images/Data.png, id=387, 1027.84pt x 718.685pt>
+<images/Data.png, id=397, 1027.84pt x 718.685pt>
 File: images/Data.png Graphic file (type png)
 <use images/Data.png>
 Package pdftex.def Info: images/Data.png  used on input line 9.
 (pdftex.def)             Requested size: 21.50154pt x 15.02374pt.
-<images/gps.png, id=390, 239.6955pt x 385.6809pt>
+<images/gps.png, id=400, 239.6955pt x 385.6809pt>
 File: images/gps.png Graphic file (type png)
 <use images/gps.png>
 Package pdftex.def Info: images/gps.png  used on input line 11.
@@ -428,7 +428,7 @@ Package pdftex.def Info: images/gps.png  used on input line 11.
 
  (chapters/design.tex
 Chapter 4.
-<images/useState.png, id=402, 328.22626pt x 48.93282pt>
+<images/useState.png, id=412, 328.22626pt x 48.93282pt>
 File: images/useState.png Graphic file (type png)
 <use images/useState.png>
 Package pdftex.def Info: images/useState.png  used on input line 19.
@@ -439,39 +439,39 @@ Package pdftex.def Info: images/useState.png  used on input line 19.
 
 
  <./images/useState.png>]
-<images/useMemo.png, id=407, 422.32782pt x 479.54156pt>
+<images/useMemo.png, id=417, 422.32782pt x 479.54156pt>
 File: images/useMemo.png Graphic file (type png)
 <use images/useMemo.png>
 Package pdftex.def Info: images/useMemo.png  used on input line 32.
 (pdftex.def)             Requested size: 344.005pt x 390.61438pt.
  [13 <./images/useMemo.png>]
-<images/homepageWireframe.png, id=412, 625.58719pt x 280.04625pt>
+<images/homepageWireframe.png, id=422, 625.58719pt x 280.04625pt>
 File: images/homepageWireframe.png Graphic file (type png)
 <use images/homepageWireframe.png>
 Package pdftex.def Info: images/homepageWireframe.png  used on input line 48.
 (pdftex.def)             Requested size: 258.00539pt x 115.49913pt.
-<images/parkerWireframe.png, id=413, 934.24031pt x 283.0575pt>
+<images/parkerWireframe.png, id=423, 934.24031pt x 283.0575pt>
 File: images/parkerWireframe.png Graphic file (type png)
 <use images/parkerWireframe.png>
 Package pdftex.def Info: images/parkerWireframe.png  used on input line 55.
 (pdftex.def)             Requested size: 258.00539pt x 78.17145pt.
-<images/sellerWireframe.png, id=414, 597.73312pt x 268.00125pt>
+<images/sellerWireframe.png, id=424, 597.73312pt x 268.00125pt>
 File: images/sellerWireframe.png Graphic file (type png)
 <use images/sellerWireframe.png>
 Package pdftex.def Info: images/sellerWireframe.png  used on input line 62.
 (pdftex.def)             Requested size: 258.00539pt x 115.67993pt.
  [14 <./images/homepageWireframe.png> <./images/parkerWireframe.png> <./images/sellerWireframe.png>]
-<images/colorScheme.png, id=419, 764.8575pt x 273.27094pt>
+<images/colorScheme.png, id=429, 764.8575pt x 273.27094pt>
 File: images/colorScheme.png Graphic file (type png)
 <use images/colorScheme.png>
 Package pdftex.def Info: images/colorScheme.png  used on input line 74.
 (pdftex.def)             Requested size: 344.005pt x 122.90822pt.
-<images/ui1.png, id=420, 1574.88374pt x 632.3625pt>
+<images/ui1.png, id=430, 1574.88374pt x 632.3625pt>
 File: images/ui1.png Graphic file (type png)
 <use images/ui1.png>
 Package pdftex.def Info: images/ui1.png  used on input line 81.
 (pdftex.def)             Requested size: 344.005pt x 138.12633pt.
-<images/ui2.png, id=421, 1565.85pt x 632.3625pt>
+<images/ui2.png, id=431, 1565.85pt x 632.3625pt>
 File: images/ui2.png Graphic file (type png)
 <use images/ui2.png>
 Package pdftex.def Info: images/ui2.png  used on input line 88.
@@ -480,7 +480,7 @@ Package pdftex.def Info: images/ui2.png  used on input line 88.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/ui3.png, id=422, 1549.28813pt x 632.3625pt>
+<images/ui3.png, id=432, 1549.28813pt x 632.3625pt>
 File: images/ui3.png Graphic file (type png)
 <use images/ui3.png>
 Package pdftex.def Info: images/ui3.png  used on input line 96.
@@ -489,7 +489,7 @@ Package pdftex.def Info: images/ui3.png  used on input line 96.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [15 <./images/colorScheme.png> <./images/ui1.png>] [16 <./images/ui2.png> <./images/ui3.png>]
-<images/dbDesign.png, id=431, 518.6878pt x 538.26094pt>
+<images/dbDesign.png, id=441, 518.6878pt x 538.26094pt>
 File: images/dbDesign.png Graphic file (type png)
 <use images/dbDesign.png>
 Package pdftex.def Info: images/dbDesign.png  used on input line 108.
@@ -518,13 +518,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 158--160
 
  []
 
-<images/externalInterface.png, id=441, 464.4853pt x 462.22687pt>
+<images/externalInterface.png, id=451, 464.4853pt x 462.22687pt>
 File: images/externalInterface.png Graphic file (type png)
 <use images/externalInterface.png>
 Package pdftex.def Info: images/externalInterface.png  used on input line 163.
 (pdftex.def)             Requested size: 301.00192pt x 299.54817pt.
 [19 <./images/externalInterface.png>]
-<images/server.png, id=446, 1359.0775pt x 516.93124pt>
+<images/server.png, id=456, 1359.0775pt x 516.93124pt>
 File: images/server.png Graphic file (type png)
 <use images/server.png>
 Package pdftex.def Info: images/server.png  used on input line 181.
@@ -534,7 +534,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 191--192
 
  []
 
-<images/FE_Architecture.png, id=452, 1512.65125pt x 574.145pt>
+<images/FE_Architecture.png, id=462, 1512.65125pt x 574.145pt>
 File: images/FE_Architecture.png Graphic file (type png)
 <use images/FE_Architecture.png>
 Package pdftex.def Info: images/FE_Architecture.png  used on input line 195.
@@ -544,7 +544,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 204--205
 
  []
 
-<images/WholeArcitectrue.png, id=453, 2839.60875pt x 691.58376pt>
+<images/WholeArcitectrue.png, id=463, 2839.60875pt x 691.58376pt>
 File: images/WholeArcitectrue.png Graphic file (type png)
 <use images/WholeArcitectrue.png>
 Package pdftex.def Info: images/WholeArcitectrue.png  used on input line 208.
@@ -554,7 +554,7 @@ Package pdftex.def Info: images/WholeArcitectrue.png  used on input line 208.
 
  (chapters/implementation.tex
 Chapter 5.
-<images/APIkey.png, id=460, 829.59938pt x 103.13531pt>
+<images/APIkey.png, id=470, 829.59938pt x 103.13531pt>
 File: images/APIkey.png Graphic file (type png)
 <use images/APIkey.png>
 Package pdftex.def Info: images/APIkey.png  used on input line 39.
@@ -565,48 +565,48 @@ Package pdftex.def Info: images/APIkey.png  used on input line 39.
 
 
  <./images/APIkey.png>]
-<images/redux_store.png, id=465, 155.83218pt x 37.64063pt>
+<images/redux_store.png, id=475, 155.83218pt x 37.64063pt>
 File: images/redux_store.png Graphic file (type png)
 <use images/redux_store.png>
 Package pdftex.def Info: images/redux_store.png  used on input line 50.
 (pdftex.def)             Requested size: 215.0023pt x 51.93375pt.
-<images/storeSlice.png, id=466, 389.95688pt x 657.95813pt>
+<images/storeSlice.png, id=476, 389.95688pt x 657.95813pt>
 File: images/storeSlice.png Graphic file (type png)
 <use images/storeSlice.png>
 Package pdftex.def Info: images/storeSlice.png  used on input line 61.
 (pdftex.def)             Requested size: 182.75327pt x 308.34683pt.
  [23 <./images/redux_store.png> <./images/storeSlice.png>]
-<images/routes.png, id=472, 510.40688pt x 608.2725pt>
+<images/routes.png, id=482, 510.40688pt x 608.2725pt>
 File: images/routes.png Graphic file (type png)
 <use images/routes.png>
 Package pdftex.def Info: images/routes.png  used on input line 73.
 (pdftex.def)             Requested size: 301.00192pt x 358.72917pt.
  [24 <./images/routes.png>]
-<images/firebaseConfig.png, id=477, 359.09157pt x 213.79875pt>
+<images/firebaseConfig.png, id=487, 359.09157pt x 213.79875pt>
 File: images/firebaseConfig.png Graphic file (type png)
 <use images/firebaseConfig.png>
 Package pdftex.def Info: images/firebaseConfig.png  used on input line 85.
 (pdftex.def)             Requested size: 301.00192pt x 179.22433pt.
  [25 <./images/firebaseConfig.png>]
-<images/folderStructure.png, id=482, 103.88812pt x 433.62pt>
+<images/folderStructure.png, id=492, 103.88812pt x 433.62pt>
 File: images/folderStructure.png Graphic file (type png)
 <use images/folderStructure.png>
 Package pdftex.def Info: images/folderStructure.png  used on input line 96.
 (pdftex.def)             Requested size: 85.9996pt x 358.97159pt.
  [26 <./images/folderStructure.png>]
-<images/googleMap.png, id=487, 435.87843pt x 643.6547pt>
+<images/googleMap.png, id=497, 435.87843pt x 643.6547pt>
 File: images/googleMap.png Graphic file (type png)
 <use images/googleMap.png>
 Package pdftex.def Info: images/googleMap.png  used on input line 109.
 (pdftex.def)             Requested size: 258.00539pt x 380.99046pt.
  [27 <./images/googleMap.png>]
-<images/dbConnection.png, id=492, 405.01312pt x 174.6525pt>
+<images/dbConnection.png, id=502, 405.01312pt x 174.6525pt>
 File: images/dbConnection.png Graphic file (type png)
 <use images/dbConnection.png>
 Package pdftex.def Info: images/dbConnection.png  used on input line 125.
 (pdftex.def)             Requested size: 344.005pt x 148.34605pt.
  [28 <./images/dbConnection.png>]
-<images/BE_Routes.png, id=497, 392.96812pt x 233.37187pt>
+<images/BE_Routes.png, id=507, 392.96812pt x 233.37187pt>
 File: images/BE_Routes.png Graphic file (type png)
 <use images/BE_Routes.png>
 Package pdftex.def Info: images/BE_Routes.png  used on input line 136.
@@ -616,30 +616,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 144--145
 
  []
 
-<images/socketConnection.png, id=503, 443.40656pt x 64.74188pt>
+<images/socketConnection.png, id=513, 443.40656pt x 64.74188pt>
 File: images/socketConnection.png Graphic file (type png)
 <use images/socketConnection.png>
 Package pdftex.def Info: images/socketConnection.png  used on input line 148.
 (pdftex.def)             Requested size: 344.005pt x 50.23073pt.
-<images/chatServer.png, id=504, 299.61937pt x 124.21407pt>
+<images/chatServer.png, id=514, 299.61937pt x 124.21407pt>
 File: images/chatServer.png Graphic file (type png)
 <use images/chatServer.png>
 Package pdftex.def Info: images/chatServer.png  used on input line 157.
 (pdftex.def)             Requested size: 344.005pt x 142.62518pt.
 [30 <./images/socketConnection.png> <./images/chatServer.png>]
-<images/user_Routes.png, id=509, 326.72063pt x 380.92313pt>
+<images/user_Routes.png, id=519, 326.72063pt x 380.92313pt>
 File: images/user_Routes.png Graphic file (type png)
 <use images/user_Routes.png>
 Package pdftex.def Info: images/user_Routes.png  used on input line 169.
 (pdftex.def)             Requested size: 344.005pt x 401.0738pt.
  [31 <./images/user_Routes.png>]
-<images/isAuth.png, id=514, 359.84438pt x 369.63094pt>
+<images/isAuth.png, id=524, 359.84438pt x 369.63094pt>
 File: images/isAuth.png Graphic file (type png)
 <use images/isAuth.png>
 Package pdftex.def Info: images/isAuth.png  used on input line 180.
 (pdftex.def)             Requested size: 344.005pt x 353.3865pt.
  [32 <./images/isAuth.png>]
-<images/userController.png, id=519, 298.11375pt x 450.9347pt>
+<images/userController.png, id=529, 298.11375pt x 450.9347pt>
 File: images/userController.png Graphic file (type png)
 <use images/userController.png>
 Package pdftex.def Info: images/userController.png  used on input line 192.
@@ -649,12 +649,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 203--205
 
  []
 
-<images/userModel.png, id=524, 740.0147pt x 590.205pt>
+<images/userModel.png, id=534, 740.0147pt x 590.205pt>
 File: images/userModel.png Graphic file (type png)
 <use images/userModel.png>
 Package pdftex.def Info: images/userModel.png  used on input line 208.
 (pdftex.def)             Requested size: 258.00539pt x 205.77332pt.
-<images/parkerModel.png, id=525, 323.70938pt x 613.54219pt>
+<images/parkerModel.png, id=535, 323.70938pt x 613.54219pt>
 File: images/parkerModel.png Graphic file (type png)
 <use images/parkerModel.png>
 Package pdftex.def Info: images/parkerModel.png  used on input line 215.
@@ -662,7 +662,7 @@ Package pdftex.def Info: images/parkerModel.png  used on input line 215.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/sellerModel.png, id=526, 328.97906pt x 592.46344pt>
+<images/sellerModel.png, id=536, 328.97906pt x 592.46344pt>
 File: images/sellerModel.png Graphic file (type png)
 <use images/sellerModel.png>
 Package pdftex.def Info: images/sellerModel.png  used on input line 223.
@@ -670,7 +670,7 @@ Package pdftex.def Info: images/sellerModel.png  used on input line 223.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/carsModel.png, id=527, 305.64188pt x 496.85625pt>
+<images/carsModel.png, id=537, 305.64188pt x 496.85625pt>
 File: images/carsModel.png Graphic file (type png)
 <use images/carsModel.png>
 Package pdftex.def Info: images/carsModel.png  used on input line 230.
@@ -678,7 +678,7 @@ Package pdftex.def Info: images/carsModel.png  used on input line 230.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/spotModel.png, id=528, 882.29625pt x 642.14906pt>
+<images/spotModel.png, id=538, 882.29625pt x 642.14906pt>
 File: images/spotModel.png Graphic file (type png)
 <use images/spotModel.png>
 Package pdftex.def Info: images/spotModel.png  used on input line 237.
@@ -686,7 +686,7 @@ Package pdftex.def Info: images/spotModel.png  used on input line 237.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/bookingModel.png, id=529, 384.6872pt x 557.83406pt>
+<images/bookingModel.png, id=539, 384.6872pt x 557.83406pt>
 File: images/bookingModel.png Graphic file (type png)
 <use images/bookingModel.png>
 Package pdftex.def Info: images/bookingModel.png  used on input line 244.
@@ -694,7 +694,7 @@ Package pdftex.def Info: images/bookingModel.png  used on input line 244.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/notificationModel.png, id=530, 357.58594pt x 363.60844pt>
+<images/notificationModel.png, id=540, 357.58594pt x 363.60844pt>
 File: images/notificationModel.png Graphic file (type png)
 <use images/notificationModel.png>
 Package pdftex.def Info: images/notificationModel.png  used on input line 252.
@@ -702,7 +702,7 @@ Package pdftex.def Info: images/notificationModel.png  used on input line 252.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/messageModel.png, id=531, 321.45094pt x 153.57375pt>
+<images/messageModel.png, id=541, 321.45094pt x 153.57375pt>
 File: images/messageModel.png Graphic file (type png)
 <use images/messageModel.png>
 Package pdftex.def Info: images/messageModel.png  used on input line 260.
@@ -710,7 +710,7 @@ Package pdftex.def Info: images/messageModel.png  used on input line 260.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/chatModel.png, id=532, 261.22594pt x 255.95625pt>
+<images/chatModel.png, id=542, 261.22594pt x 255.95625pt>
 File: images/chatModel.png Graphic file (type png)
 <use images/chatModel.png>
 Package pdftex.def Info: images/chatModel.png  used on input line 268.
@@ -719,12 +719,12 @@ Package pdftex.def Info: images/chatModel.png  used on input line 268.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [34 <./images/userModel.png>] [35 <./images/parkerModel.png>] [36 <./images/sellerModel.png>] [37 <./images/carsModel.png>] [38 <./images/spotModel.png>] [39 <./images/bookingModel.png>] [40 <./images/notificationModel.png>] [41 <./images/messageModel.png>] [42 <./images/chatModel.png>]
-<images/parkerBehaviour.png, id=572, 742.27313pt x 384.6872pt>
+<images/parkerBehaviour.png, id=582, 742.27313pt x 384.6872pt>
 File: images/parkerBehaviour.png Graphic file (type png)
 <use images/parkerBehaviour.png>
 Package pdftex.def Info: images/parkerBehaviour.png  used on input line 284.
 (pdftex.def)             Requested size: 430.00462pt x 222.85458pt.
-<images/parkerBehaviour2.png, id=573, 414.79968pt x 339.51843pt>
+<images/parkerBehaviour2.png, id=583, 414.79968pt x 339.51843pt>
 File: images/parkerBehaviour2.png Graphic file (type png)
 <use images/parkerBehaviour2.png>
 Package pdftex.def Info: images/parkerBehaviour2.png  used on input line 293.
@@ -736,7 +736,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [43
 
  <./images/parkerBehaviour.png>] [44 <./images/parkerBehaviour2.png>]
-<images/sellerBehaviour.png, id=582, 705.38531pt x 339.51843pt>
+<images/sellerBehaviour.png, id=592, 705.38531pt x 339.51843pt>
 File: images/sellerBehaviour.png Graphic file (type png)
 <use images/sellerBehaviour.png>
 Package pdftex.def Info: images/sellerBehaviour.png  used on input line 306.
@@ -744,19 +744,19 @@ Package pdftex.def Info: images/sellerBehaviour.png  used on input line 306.
  [45
 
  <./images/sellerBehaviour.png>]
-<images/sellerBehaviour2.png, id=587, 463.7325pt x 374.14781pt>
+<images/sellerBehaviour2.png, id=597, 463.7325pt x 374.14781pt>
 File: images/sellerBehaviour2.png Graphic file (type png)
 <use images/sellerBehaviour2.png>
 Package pdftex.def Info: images/sellerBehaviour2.png  used on input line 315.
 (pdftex.def)             Requested size: 430.00462pt x 346.94336pt.
  [46 <./images/sellerBehaviour2.png>]
-<images/spotBehaviour.png, id=592, 502.87875pt x 335.00156pt>
+<images/spotBehaviour.png, id=602, 502.87875pt x 335.00156pt>
 File: images/spotBehaviour.png Graphic file (type png)
 <use images/spotBehaviour.png>
 Package pdftex.def Info: images/spotBehaviour.png  used on input line 327.
 (pdftex.def)             Requested size: 430.00462pt x 286.45486pt.
  [47 <./images/spotBehaviour.png>]
-<images/bookingRequestBehaviour.png, id=598, 594.72188pt x 306.39468pt>
+<images/bookingRequestBehaviour.png, id=608, 594.72188pt x 306.39468pt>
 File: images/bookingRequestBehaviour.png Graphic file (type png)
 <use images/bookingRequestBehaviour.png>
 Package pdftex.def Info: images/bookingRequestBehaviour.png  used on input line 339.
@@ -767,7 +767,7 @@ Package pdftex.def Info: images/bookingRequestBehaviour.png  used on input line 
  (chapters/testing.tex
 Chapter 6.
 
-Overfull \hbox (1.57935pt too wide) in paragraph at lines 4--5
+Overfull \hbox (1.57935pt too wide) in paragraph at lines 5--6
 \OT1/cmr/m/n/10 The User Experience in terms accuracy and responsiveness will be ensured because of the Application
  []
 
@@ -792,20 +792,20 @@ Chapter 7.
 
 ] (main.aux (importantPages/titlepage.aux) (importantPages/secondpage.aux) (chapters/acknowledgement.aux) (chapters/abstract.aux) (chapters/introduction.aux) (chapters/relatedwork.aux) (chapters/requirements.aux) (chapters/design.aux) (chapters/implementation.aux) (chapters/testing.aux) (chapters/conclusion.aux))
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: ED1644764CD9EBFBBE88602DBBAA69F1;4874.
+(rerunfilecheck)             Checksum: 1B924BFCA3814DFEE678FFF8DB639F35;5069.
  ) 
 Here is how much of TeX's memory you used:
- 14093 strings out of 478614
- 257870 string characters out of 2842178
- 537571 words of memory out of 3000000
- 31831 multiletter control sequences out of 15000+600000
+ 14097 strings out of 478614
+ 257918 string characters out of 2842178
+ 537574 words of memory out of 3000000
+ 31833 multiletter control sequences out of 15000+600000
  472363 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,11n,77p,1336b,402s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\Elusive\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Elusive/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Elusive/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Elusive/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Elusive/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Elusive/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Elusive/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (53 pages, 2586005 bytes).
+Output written on main.pdf (53 pages, 2587214 bytes).
 PDF statistics:
- 683 PDF objects out of 1000 (max. 8388607)
- 152 named destinations out of 1000 (max. 500000)
- 609 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 693 PDF objects out of 1000 (max. 8388607)
+ 154 named destinations out of 1000 (max. 500000)
+ 625 words of extra memory for PDF output out of 10000 (max. 10000000)
 

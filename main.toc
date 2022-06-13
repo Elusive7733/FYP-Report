@@ -43,4 +43,6 @@
 \contentsline {subsection}{\numberline {5.4.3}Spot}{47}{subsection.5.4.3}%
 \contentsline {subsection}{\numberline {5.4.4}Booking Request}{48}{subsection.5.4.4}%
 \contentsline {chapter}{\numberline {6}Testing and Evaluation}{49}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Evaluation}{49}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Testing}{49}{section.6.2}%
 \contentsline {chapter}{\numberline {7}Conclusion}{50}{chapter.7}%
